@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "data-quality-service"
+  x-cortex-tag: "data-quality-service"
+  x-cortex-description: "Schema validation and data quality enforcement"
+  x-cortex-owners:
+    - type: group
+      name: "Data Platform Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001501"
+    apm_name: "Enterprise Data Platform"
+    cost_center: "CC-4510"
